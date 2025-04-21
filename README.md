@@ -16,6 +16,8 @@ Unmatched Undetection! Supports all major platforms ( Windows 10/11, x64 ). Free
 * Indicators
 * Remove FOG
 * Chams!
+* Show Chest Indicator
+* Permanent Elemental Sight
 #### Miscellaneous
 * Override FOV
 * Unlock FPS
@@ -43,6 +45,10 @@ Unmatched Undetection! Supports all major platforms ( Windows 10/11, x64 ). Free
 * No Sprint Cooldown
 * Reduse Skill Cooldown
 * Burst Max Energy
+* Auto Talk
+* Auto Select Dialog
+* Skip Cutscenes
+* Fast Dialog
 #### Configs
 * You can export & import configs from your clipboard!
 #### LUA
