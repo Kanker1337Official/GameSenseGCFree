@@ -16,6 +16,8 @@ Unmatched Undetection! Supports all major platforms ( Windows 10/11, x64 ). Free
 * Indicators
 * Remove FOG
 * Chams!
+* Disable Model Occlusion
+* Force Aspect Ratio
 * Show Chest Indicator
 * Permanent Elemental Sight
 #### Miscellaneous
@@ -27,11 +29,13 @@ Unmatched Undetection! Supports all major platforms ( Windows 10/11, x64 ). Free
 * Auto Seelie
 * Auto Loot
 * Auto Destroy
+* Auto Fish
 #### Movement
 * Fall Control
 * Fast Walk
 #### Menu
 * Menu Key Change
+* Keybinds Indicator
 * Menu Color Change
 * Menu layout ( Lock layout have too )
 * All settings are saving and loading after inject
@@ -49,6 +53,8 @@ Unmatched Undetection! Supports all major platforms ( Windows 10/11, x64 ). Free
 * Auto Select Dialog
 * Skip Cutscenes
 * Fast Dialog
+* No Avatar Change CD
+* Instant Bow
 #### Configs
 * You can export & import configs from your clipboard!
 #### LUA
