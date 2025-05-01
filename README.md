@@ -3,6 +3,7 @@ The best Free/Paid DLS for Genshin Impact!
 
 # Information
 Unmatched Undetection! Supports all major platforms ( Windows 10/11, x64 ). Free Tier - Loader + Driver included out of the box—no extra tools or subscriptions needed. Minimal system impact ( low CPU/RAM usage ). Rapid response to user feedback. ( We need you! <3 )
+Discord Server - https://discord.gg/uWnNfVSVtA
 
 # Features
 #### Rage
