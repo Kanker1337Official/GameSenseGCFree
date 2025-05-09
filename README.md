@@ -7,11 +7,14 @@ Discord Server - https://discord.gg/uWnNfVSVtA
 
 # Features
 #### Rage
+* AntiAims
+* Ragebot
 * KillAura
 * Multi-Hit
 * Multi Target
 * Multi Animations
 * Fast Attack
+* Dumb Enemies
 #### Visuals
 * ESP ( Interpolation included )
 * Indicators
@@ -21,6 +24,9 @@ Discord Server - https://discord.gg/uWnNfVSVtA
 * Force Aspect Ratio
 * Show Chest Indicator
 * Permanent Elemental Sight
+* Chinese Indicators
+* Remove Damage Overlay
+* HitSound
 #### Miscellaneous
 * Override FOV
 * Unlock FPS
@@ -34,6 +40,8 @@ Discord Server - https://discord.gg/uWnNfVSVtA
 #### Movement
 * Fall Control
 * Fast Walk
+* Jesus Walk
+* No Clip
 #### Menu
 * Menu Key Change
 * Keybinds Indicator
@@ -46,7 +54,6 @@ Discord Server - https://discord.gg/uWnNfVSVtA
 #### Player
 * God Mode
 * Infinity stamina
-* No Clip
 * No Sprint Cooldown
 * Reduse Skill Cooldown
 * Burst Max Energy
@@ -56,6 +63,7 @@ Discord Server - https://discord.gg/uWnNfVSVtA
 * Fast Dialog
 * No Avatar Change CD
 * Instant Bow
+* ProfileManager
 #### Configs
 * You can export & import configs from your clipboard!
 #### LUA
