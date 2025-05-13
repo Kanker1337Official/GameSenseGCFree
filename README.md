@@ -40,22 +40,26 @@ Discord Server - https://discord.gg/uWnNfVSVtA
 #### Movement
 * Fall Control
 * Fast Walk
-* Jesus Walk
+* Jesus Mode
 * No Clip
 #### Menu
 * Menu Key Change
 * Keybinds Indicator
 * Menu Color Change
 * Menu layout ( Lock layout have too )
+* DPI Scale
 * All settings are saving and loading after inject
 #### Map Teleport
 * Map Teleport on key
 * Chest Teleport
+* Custom Teleports
 #### Player
 * God Mode
 * Infinity stamina
+* Infinity Phlogiston stamina
 * No Sprint Cooldown
 * Reduse Skill Cooldown
+* Vehicle No Skill Cooldown
 * Burst Max Energy
 * Auto Talk
 * Auto Select Dialog
